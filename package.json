@@ -2,7 +2,7 @@
   "name": "pbcontabeis",
   "version": "1.0.0",
   "description": "Site PB",
-  "main": "index.html",
+  "main": "index.js",
   "scripts": {
     "dev": "next dev"
   },
