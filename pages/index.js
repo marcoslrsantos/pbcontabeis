@@ -1,5 +1,5 @@
 function Home(){
-    return <div>Site em desenvolvimento.</div>
+    return <div>Site em desenvolvimento. Volte em breve!</div>
 }
 
 export default Home
