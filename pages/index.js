@@ -1,5 +1,5 @@
 function Home(){
-    return <div>Hello World new ó</div>
+    return <div>Site em desenvolvimento.</div>
 }
 
 export default Home
